@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=radical)]
+![Anurag's GitHub stats](https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-crazy-pea4.vercel.app/api/pin/?username=Crazy-pea4&repo=study&theme=radical)](https://github.com/Crazy-pea4/study)
 
