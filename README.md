@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there
 
+<img src="./imgs/Anime-Kabaneri-of-the-Iron-Fortress.jpg" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
@@ -28,6 +30,6 @@ Here are some ideas to get you started:
 
 <img src="./imgs/Akame-Ga-kill.jpg" align="right" width="40%"></img>
 
-<img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=gotham&hide_border=true" style="width: 300px"></img>
+<img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=gotham&hide_border=true" style="width: 400px"></img>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Crazy-pea4&theme=gotham&hide_border=true&date_format=%5BY%20%5DM%20j" style="width: 300px"></img>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Crazy-pea4&theme=gotham&hide_border=true&date_format=%5BY%20%5DM%20j" style="width: 400px"></img>
