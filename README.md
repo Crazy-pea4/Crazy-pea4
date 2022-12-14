@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ### Hi there
 
 <p align="center">
-  <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=radical"></img>
-  <img src="https://github-readme-crazy-pea4.vercel.app/api/top-langs/?username=Crazy-pea4&theme=radical"></img>
+  <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=gotham&hide_border=true"></img>
 </p>
 
 <p align="center">
