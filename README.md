@@ -1,4 +1,3 @@
-
 <!--
 **Crazy-pea4/Crazy-pea4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +15,22 @@ Here are some ideas to get you started:
 
 ### Hi there
 
+<div>
+<div style="float: left">
 <p align="center">
   <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=gotham&hide_border=true"></img>
 </p>
-
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Crazy-pea4&theme=gotham&hide_border=true&date_format=%5BY%20%5DM%20j"></img>
 </p>
+</div>
+
+<div style="float: right">
+<p align="center">
+  <img src="./imgs/Akame-Ga-kill.jpg"></img>
+</p>
+</div>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -34,4 +42,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
