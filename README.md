@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<div align="center" style="display: flex; justify-content: space-around">
+<div align="center" style="display: flex;">
   <div style="float: left">
     <p>
   <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=gotham&hide_border=true" style="width: 460px"></img>
