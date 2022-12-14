@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;">![Anurag's GitHub stats](https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=radical)</div>
-
-<div style="text-align: center;"><img align="center" src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=radical"></img></div>
+<div style="text-align: center; width: 100%">
+  <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=radical"></img>
+</div>
 
 [![Readme Card](https://github-readme-crazy-pea4.vercel.app/api/pin/?username=Crazy-pea4&repo=study&theme=radical)](https://github.com/Crazy-pea4/study)
 
