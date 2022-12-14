@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript"/>
   <img src="https://img.shields.io/badge/Nodejs-black?style=flat&logo=Node.js"/>
   <img src="https://img.shields.io/badge/Expressjs-black?style=flat&logo=express"/>
   <img src="https://img.shields.io/badge/Vue-black?style=flat&logo=Vue.js"/>
