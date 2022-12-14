@@ -30,8 +30,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vite-black?style=flat&logo=Vite"/>
   <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Webpack-black?style=flat&logo=Webpack"/>
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
 </p>
 
 <img src="./imgs/Akame-Ga-kill.jpg" align="right" width="35%"></img>
