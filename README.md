@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div aling="center">
+<div align="center">
   <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=radical"></img>
   <img src="https://github-readme-crazy-pea4.vercel.app/api/top-langs/?username=Crazy-pea4&theme=radical" width="100px"></img>
 </div>
