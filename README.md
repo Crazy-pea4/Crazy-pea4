@@ -19,7 +19,16 @@ Here are some ideas to get you started:
   <img src="https://github-readme-crazy-pea4.vercel.app/api/top-langs/?username=Crazy-pea4&theme=radical"></img>
 </div>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 
 
 [![Readme Card](https://github-readme-crazy-pea4.vercel.app/api/pin/?username=Crazy-pea4&repo=study&theme=radical)](https://github.com/Crazy-pea4/study)
