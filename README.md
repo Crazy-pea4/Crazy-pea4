@@ -26,19 +26,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<div align="center" style="display: flex; justify-content: space-evenly">
-  <div>
-    <p>
-  <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=gotham&hide_border=true" style="width: 460px"></img>
+<div style="float: left">
+<p>
+<img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=gotham&hide_border=true" style="width: 300px"></img>
 </p>
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Crazy-pea4&theme=gotham&hide_border=true&date_format=%5BY%20%5DM%20j" style="width: 460px"></img>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Crazy-pea4&theme=gotham&hide_border=true&date_format=%5BY%20%5DM%20j" style="width: 300px"></img>
 </p>
 </div>
 
-<div>
-<p>
-  <img src="./imgs/Akame-Ga-kill.jpg" style="width: 200px"></img>
+<p style="float: right">
+  <img src="./imgs/Akame-Ga-kill.jpg" style="width: 100px"></img>
 </p>
-</div>
-</div>
