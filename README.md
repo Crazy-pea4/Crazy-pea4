@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+### Hi there
+
+<p align="center">
   <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=radical"></img>
   <img src="https://github-readme-crazy-pea4.vercel.app/api/top-langs/?username=Crazy-pea4&theme=radical"></img>
-</div>
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Crazy-pea4&theme=gotham&hide_border=true&date_format=%5BY%20%5DM%20j"></img>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -29,8 +35,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
-
-[![Readme Card](https://github-readme-crazy-pea4.vercel.app/api/pin/?username=Crazy-pea4&repo=study&theme=radical)](https://github.com/Crazy-pea4/study)
-
 
