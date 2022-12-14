@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-crazy-pea4.vercel.app/api/top-langs/?username=Crazy-pea4&theme=radical"></img>
 </div>
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
 [![Readme Card](https://github-readme-crazy-pea4.vercel.app/api/pin/?username=Crazy-pea4&repo=study&theme=radical)](https://github.com/Crazy-pea4/study)
 
 
