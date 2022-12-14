@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<div align="center" style="display: flex;">
-  <div style="float: left">
+<div align="center" style="display: flex; justify-content: space-evenly">
+  <div>
     <p>
   <img src="https://github-readme-crazy-pea4.vercel.app/api?username=Crazy-pea4&show_icons=true&theme=gotham&hide_border=true" style="width: 460px"></img>
 </p>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-<div style="float: right">
+<div>
 <p>
   <img src="./imgs/Akame-Ga-kill.jpg" style="width: 200px"></img>
 </p>
