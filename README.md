@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=E01F67&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=440&lines=when+dream+become+true" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript"/>
